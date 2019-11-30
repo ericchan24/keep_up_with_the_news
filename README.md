@@ -1,4 +1,4 @@
-This repository contains the code for a project to scrape alll the articles on
+This repository contains the code for a project to scrape all the articles on
 Fangraphs and send an email attachment containing the articles.
 
 There are four files in the scripts directory:
@@ -9,5 +9,5 @@ There are four files in the scripts directory:
 
 The scripts are run daily using the job scheduler Cron.
 
-Here is a link to my [blog post](https://ericchan24.github.io/automation/cron/email/web%20scraping/2019/11/30/Keep-Up-With-the-News-Using-Python/)
-about the project.
+Here is a link to my <a href="https://ericchan24.github.io/automation/cron/email/web%20scraping/2019/11/30/Keep-Up-With-the-News-Using-Python/" target="_blank">
+blog post</a> about the project.
